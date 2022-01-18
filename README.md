@@ -1,7 +1,7 @@
 # NCM-ML
 
 # Descriptions: 
-This repository contains all the R codes written specifically for contrusting  machine learning models to predict the initial dischagre capacity (IC) and 50th cycle end discharge capacities of 169 doped Nickel-Cobalt-Managnese cathode materials. This is given to aid the dicussion in the manuscript " Machine Learning Approach for Predicting the Discharging Capacities of Doped Nickel-Cobalt-Manganese Cathode Materials in Li-ion Battery"
+This repository contains all the R codes written specifically for contrusting  machine learning models to predict the initial dischagre capacity (IC) and 50th cycle end discharge capacities of 168 doped Nickel-Cobalt-Managnese cathode materials. This is given to aid the dicussion in the manuscript " Machine Learning Approach for Predicting the Discharging Capacities of Doped Nickel-Cobalt-Manganese Cathode Materials in Li-ion Battery"
 
 # Table of Content:
 In this repository, six different non-linear machine learning techniques are written in Python:
